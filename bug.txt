@@ -1,0 +1,14 @@
+Summary
+project
+component
+version
+severity
+priority
+status
+autor
+assigned to 
+environment
+str
+result
+expected result
+attachments
